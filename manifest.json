@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "manaba words Highlighter",
   "version": "1.0",
-  "description": "誤りを選択するテスト問題をmanaba内でハイライト表示します。",
+  "description": "誤りを選択する形式のテスト問題をmanaba内でハイライト表示します。",
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
